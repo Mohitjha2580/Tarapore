@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarapore School - Student Engagement Platform</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <h2>Tarapore School</h2>
+                <p>Where Learning Comes Alive!</p>
+            </div>
+            <div class="nav-menu">
+                <a href="#dashboard" class="nav-link active">Dashboard</a>
+                <a href="#leaderboard" class="nav-link">Leaderboard</a>
+                <a href="#achievements" class="nav-link">Achievements</a>
+                <a href="#activities" class="nav-link">Activities</a>
+                <a href="#profile" class="nav-link">Profile</a>
+            </div>
+            <div class="user-info">
+                <div class="notification-bell">
+                    <i class="fas fa-bell"></i>
+                    <span class="notification-badge">3</span>
+                </div>
+                <div class="user-avatar">
+                    <img src="https://via.placeholder.com/40/3498db/ffffff?text=SJ" alt="Student">
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Welcome Section -->
+        <section id="dashboard" class="section active">
+            <div class="welcome-banner">
+                <div class="welcome-content">
+                    <h1>Welcome back, Sarah!</h1>
+                    <p class="motto">S.M.A.R.T - Spiritually inclined, Morally upright, Ardent achievers, Responsible citizens, Thoughtful and tolerant</p>
+                    <div class="daily-streak">
+                        <i class="fas fa-fire"></i>
+                        <span>7 Day Streak!</span>
+                    </div>
+                </div>
+                <div class="welcome-stats">
+                    <div class="stat-card">
+                        <div class="stat-number">1,247</div>
+                        <div class="stat-label">Total Points</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">15</div>
+                        <div class="stat-label">Badges Earned</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">3rd</div>
+                        <div class="stat-label">Class Rank</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Quick Actions -->
+            <div class="quick-actions">
+                <h3>Today's Challenges</h3>
+                <div class="action-grid">
+                    <div class="action-card">
+                        <i class="fas fa-book-open"></i>
+                        <h4>Complete Reading Assignment</h4>
+                        <p>Science Chapter 7</p>
+                        <div class="action-progress">
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 60%"></div>
+                            </div>
+                            <span>60% Complete</span>
+                        </div>
+                    </div>
+                    <div class="action-card">
+                        <i class="fas fa-comments"></i>
+                        <h4>Join Debate Discussion</h4>
+                        <p>Climate Change Solutions</p>
+                        <button class="action-btn">Join Now</button>
+                    </div>
+                    <div class="action-card">
+                        <i class="fas fa-hand-holding-heart"></i>
+                        <h4>Volunteer Activity</h4>
+                        <p>Library Organization</p>
+                        <button class="action-btn">Sign Up</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Leaderboard Section -->
+        <section id="leaderboard" class="section">
+            <div class="section-header">
+                <h2>Live Leaderboards</h2>
+                <div class="leaderboard-tabs">
+                    <button class="tab-btn active" data-tab="class">Class 10A</button>
+                    <button class="tab-btn" data-tab="house">House Rankings</button>
+                    <button class="tab-btn" data-tab="school">School Wide</button>
+                </div>
+            </div>
+
+            <div class="leaderboard-content">
+                <div class="leaderboard-tab active" id="class-tab">
+                    <div class="podium">
+                        <div class="podium-place second">
+                            <div class="podium-student">
+                                <img src="https://via.placeholder.com/60/27ae60/ffffff?text=RK" alt="Raj Kumar">
+                                <h4>Raj Kumar</h4>
+                                <p>1,180 pts</p>
+                            </div>
+                            <div class="podium-number">2</div>
+                        </div>
+                        <div class="podium-place first">
+                            <div class="podium-student">
+                                <img src="https://via.placeholder.com/80/3498db/ffffff?text=AP" alt="Asha Patel">
+                                <h4>Asha Patel</h4>
+                                <p>1,350 pts</p>
+                            </div>
+                            <div class="podium-number">1</div>
+                        </div>
+                        <div class="podium-place third">
+                            <div class="podium-student">
+                                <img src="https://via.placeholder.com/60/9b59b6/ffffff?text=SJ" alt="Sarah Jha">
+                                <h4>Sarah Jha</h4>
+                                <p>1,120 pts</p>
+                            </div>
+                            <div class="podium-number">3</div>
+                        </div>
+                    </div>
+                    
+                    <div class="leaderboard-list">
+                        <div class="leaderboard-item">
+                            <span class="rank">4</span>
+                            <img src="https://via.placeholder.com/40/2c3e50/ffffff?text=MN" alt="Student">
+                            <div class="student-info">
+                                <h4>Mohit Nair</h4>
+                                <p>Consistent performer</p>
+                            </div>
+                            <div class="points">1,095 pts</div>
+                        </div>
+                        <div class="leaderboard-item">
+                            <span class="rank">5</span>
+                            <img src="https://via.placeholder.com/40/2ecc71/ffffff?text=PS" alt="Student">
+                            <div class="student-info">
+                                <h4>Priya Singh</h4>
+                                <p>Art enthusiast</p>
+                            </div>
+                            <div class="points">1,050 pts</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="leaderboard-tab" id="house-tab">
+                    <div class="house-rankings">
+                        <div class="house-card winner">
+                            <div class="house-icon">🏆</div>
+                            <h3>Gandhi House</h3>
+                            <p class="house-points">8,750 points</p>
+                            <div class="house-progress">
+                                <div class="progress-bar">
+                                    <div class="progress-fill" style="width: 100%"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="house-card">
+                            <div class="house-icon">🥈</div>
+                            <h3>Tagore House</h3>
+                            <p class="house-points">8,200 points</p>
+                            <div class="house-progress">
+                                <div class="progress-bar">
+                                    <div class="progress-fill" style="width: 85%"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="house-card">
+                            <div class="house-icon">🥉</div>
+                            <h3>Shastri House</h3>
+                            <p class="house-points">7,900 points</p>
+                            <div class="house-progress">
+                                <div class="progress-bar">
+                                    <div class="progress-fill" style="width: 78%"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Achievements Section -->
+        <section id="achievements" class="section">
+            <div class="section-header">
+                <h2>Achievement Badges</h2>
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-filter="all">All</button>
+                    <button class="filter-btn" data-filter="academic">Academic</button>
+                    <button class="filter-btn" data-filter="sports">Sports</button>
+                    <button class="filter-btn" data-filter="arts">Arts</button>
+                    <button class="filter-btn" data-filter="service">Service</button>
+                </div>
+            </div>
+
+            <div class="achievements-grid">
+                <div class="achievement-card earned academic">
+                    <div class="badge-icon">📚</div>
+                    <h4>Scholar</h4>
+                    <p>Complete 50 assignments</p>
+                    <div class="achievement-date">Earned: Jan 15, 2024</div>
+                </div>
+                <div class="achievement-card earned sports">
+                    <div class="badge-icon">🏆</div>
+                    <h4>Champion</h4>
+                    <p>Win 3 sports competitions</p>
+                    <div class="achievement-date">Earned: Dec 10, 2023</div>
+                </div>
+                <div class="achievement-card earned arts">
+                    <div class="badge-icon">🎨</div>
+                    <h4>Creative Spirit</h4>
+                    <p>Submit 10 art projects</p>
+                    <div class="achievement-date">Earned: Nov 22, 2023</div>
+                </div>
+                <div class="achievement-card earned service">
+                    <div class="badge-icon">❤️</div>
+                    <h4>Helper</h4>
+                    <p>Complete 20 volunteer hours</p>
+                    <div class="achievement-date">Earned: Jan 5, 2024</div>
+                </div>
+                <div class="achievement-card locked academic">
+                    <div class="badge-icon">🎓</div>
+                    <h4>Valedictorian</h4>
+                    <p>Maintain top 3 rank for semester</p>
+                    <div class="progress-indicator">
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 70%"></div>
+                        </div>
+                        <span>70% Complete</span>
+                    </div>
+                </div>
+                <div class="achievement-card locked sports">
+                    <div class="badge-icon">⚽</div>
+                    <h4>Sports Star</h4>
+                    <p>Participate in 5 different sports</p>
+                    <div class="progress-indicator">
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 40%"></div>
+                        </div>
+                        <span>2/5 Sports</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Activities Section -->
+        <section id="activities" class="section">
+            <div class="section-header">
+                <h2>Activity Tracker</h2>
+                <div class="activity-summary">
+                    <div class="summary-card">
+                        <i class="fas fa-comments"></i>
+                        <div>
+                            <h4>8</h4>
+                            <p>Debates Participated</p>
+                        </div>
+                    </div>
+                    <div class="summary-card">
+                        <i class="fas fa-palette"></i>
+                        <div>
+                            <h4>12</h4>
+                            <p>Art Projects</p>
+                        </div>
+                    </div>
+                    <div class="summary-card">
+                        <i class="fas fa-running"></i>
+                        <div>
+                            <h4>5</h4>
+                            <p>Sports Events</p>
+                        </div>
+                    </div>
+                    <div class="summary-card">
+                        <i class="fas fa-hands-helping"></i>
+                        <div>
+                            <h4>25</h4>
+                            <p>Volunteer Hours</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="activities-timeline">
+                <h3>Recent Activities</h3>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-marker debate"></div>
+                        <div class="timeline-content">
+                            <h4>Debate Competition</h4>
+                            <p>Topic: "Technology in Education" - Won 2nd place</p>
+                            <span class="timeline-date">2 days ago</span>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-marker arts"></div>
+                        <div class="timeline-content">
+                            <h4>Art Exhibition</h4>
+                            <p>Submitted watercolor painting - Featured in school gallery</p>
+                            <span class="timeline-date">1 week ago</span>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-marker volunteer"></div>
+                        <div class="timeline-content">
+                            <h4>Community Service</h4>
+                            <p>Organized books in school library - 3 hours</p>
+                            <span class="timeline-date">2 weeks ago</span>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-marker innovation"></div>
+                        <div class="timeline-content">
+                            <h4>Science Fair</h4>
+                            <p>Presented renewable energy project - Excellence award</p>
+                            <span class="timeline-date">3 weeks ago</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Profile Section -->
+        <section id="profile" class="section">
+            <div class="profile-header">
+                <div class="profile-avatar">
+                    <img src="https://via.placeholder.com/120/3498db/ffffff?text=SJ" alt="Sarah Jha">
+                    <button class="edit-avatar">📷</button>
+                </div>
+                <div class="profile-info">
+                    <h2>Sarah Jha</h2>
+                    <p>Class 10A | Gandhi House | Student ID: TS2024001</p>
+                    <div class="profile-stats">
+                        <div class="stat">
+                            <h4>1,247</h4>
+                            <p>Total Points</p>
+                        </div>
+                        <div class="stat">
+                            <h4>15</h4>
+                            <p>Badges</p>
+                        </div>
+                        <div class="stat">
+                            <h4>3rd</h4>
+                            <p>Class Rank</p>
+                        </div>
+                        <div class="stat">
+                            <h4>92%</h4>
+                            <p>Attendance</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="profile-content">
+                <div class="profile-section">
+                    <h3>Personal Progress</h3>
+                    <div class="progress-chart">
+                        <div class="skill-progress">
+                            <div class="skill-info">
+                                <span>Academic Excellence</span>
+                                <span>85%</span>
+                            </div>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 85%"></div>
+                            </div>
+                        </div>
+                        <div class="skill-progress">
+                            <div class="skill-info">
+                                <span>Creative Arts</span>
+                                <span>92%</span>
+                            </div>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 92%"></div>
+                            </div>
+                        </div>
+                        <div class="skill-progress">
+                            <div class="skill-info">
+                                <span>Sports Participation</span>
+                                <span>78%</span>
+                            </div>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 78%"></div>
+                            </div>
+                        </div>
+                        <div class="skill-progress">
+                            <div class="skill-info">
+                                <span>Community Service</span>
+                                <span>96%</span>
+                            </div>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 96%"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="profile-section">
+                    <h3>S.M.A.R.T Goals</h3>
+                    <div class="goals-grid">
+                        <div class="goal-card">
+                            <h4>📿 Spiritually Inclined</h4>
+                            <p>Participate in meditation sessions</p>
+                            <div class="goal-progress">5/10 sessions</div>
+                        </div>
+                        <div class="goal-card">
+                            <h4>💝 Morally Upright</h4>
+                            <p>Complete ethics workshop</p>
+                            <div class="goal-progress">Completed ✓</div>
+                        </div>
+                        <div class="goal-card">
+                            <h4>🏆 Ardent Achiever</h4>
+                            <p>Maintain academic excellence</p>
+                            <div class="goal-progress">85% average</div>
+                        </div>
+                        <div class="goal-card">
+                            <h4>🌍 Responsible Citizen</h4>
+                            <p>Environmental projects</p>
+                            <div class="goal-progress">3/5 projects</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Wall of Fame -->
+        <section class="wall-of-fame">
+            <h2>🌟 Wall of Fame</h2>
+            <div class="fame-carousel">
+                <div class="fame-card spotlight">
+                    <div class="fame-badge">Student of the Month</div>
+                    <img src="https://via.placeholder.com/100/3498db/ffffff?text=AP" alt="Asha Patel">
+                    <h3>Asha Patel</h3>
+                    <p>Class 10A</p>
+                    <div class="fame-achievement">Excellence in Mathematics and Leadership</div>
+                </div>
+                <div class="fame-card">
+                    <div class="fame-badge">Innovation Award</div>
+                    <img src="https://via.placeholder.com/80/27ae60/ffffff?text=RK" alt="Raj Kumar">
+                    <h3>Raj Kumar</h3>
+                    <p>Class 9B</p>
+                    <div class="fame-achievement">Renewable Energy Project</div>
+                </div>
+                <div class="fame-card">
+                    <div class="fame-badge">Community Service</div>
+                    <img src="https://via.placeholder.com/80/9b59b6/ffffff?text=MN" alt="Mohit Nair">
+                    <h3>Mohit Nair</h3>
+                    <p>Class 11A</p>
+                    <div class="fame-achievement">50+ Volunteer Hours</div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Teacher Dashboard Modal -->
+    <div id="teacher-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Teacher Dashboard</h2>
+            <div class="teacher-controls">
+                <div class="student-selector">
+                    <label>Select Student:</label>
+                    <select id="student-select">
+                        <option>Sarah Jha</option>
+                        <option>Asha Patel</option>
+                        <option>Raj Kumar</option>
+                        <option>Mohit Nair</option>
+                    </select>
+                </div>
+                <div class="points-award">
+                    <label>Award Points:</label>
+                    <input type="number" id="points-input" placeholder="Enter points">
+                    <select id="category-select">
+                        <option>Academic Excellence</option>
+                        <option>Sports Achievement</option>
+                        <option>Arts & Creativity</option>
+                        <option>Community Service</option>
+                        <option>Leadership</option>
+                    </select>
+                    <button id="award-points">Award Points</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Achievement Notification -->
+    <div id="achievement-notification" class="achievement-popup">
+        <div class="achievement-content">
+            <div class="achievement-icon">🏆</div>
+            <h3>Achievement Unlocked!</h3>
+            <p id="achievement-text">Congratulations on your new badge!</p>
+            <button onclick="closeAchievement()">Awesome!</button>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Tarapore School</h3>
+                <p>Where Learning Comes Alive!</p>
+                <p>Explore it! Experience it! Excel in it!</p>
+            </div>
+            <div class="footer-section">
+                <h4>S.M.A.R.T Values</h4>
+                <ul>
+                    <li>Spiritually inclined</li>
+                    <li>Morally upright</li>
+                    <li>Ardent achievers</li>
+                    <li>Responsible citizens</li>
+                    <li>Thoughtful and tolerant</li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Connect</h4>
+                <p>📍 Jamshedpur, Jharkhand</p>
+                <p>📞 +91 657 XXX XXXX</p>
+                <p>✉️ info@tarapore.edu.in</p>
+            </div>
+        </div>
+        <div class="footer-credit">
+            <p>Designed & Developed by <span class="developer-name">Mohit Jha</span></p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
