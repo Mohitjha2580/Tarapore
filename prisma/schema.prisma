@@ -1,0 +1,257 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  student
+  teacher
+  principal
+}
+
+enum House {
+  red
+  blue
+  green
+  yellow
+}
+
+enum PointCategory {
+  academic
+  sports
+  arts
+  leadership
+  participation
+}
+
+enum EventType {
+  academic
+  sports
+  cultural
+  competition
+}
+
+enum FriendshipStatus {
+  pending
+  accepted
+  blocked
+}
+
+enum BadgeRarity {
+  common
+  rare
+  epic
+  legendary
+}
+
+model User {
+  id               String    @id @default(uuid())
+  email            String    @unique
+  passwordHash     String    @map("password_hash")
+  role             UserRole
+  studentId        String    @map("student_id")
+  firstName        String    @map("first_name")
+  lastName         String    @map("last_name")
+  profilePicture   String?   @map("profile_picture")
+  house            House?
+  grade            Int?
+  isActive         Boolean   @default(true) @map("is_active")
+  lastLogin        DateTime? @map("last_login")
+  createdAt        DateTime  @default(now()) @map("created_at")
+  updatedAt        DateTime  @updatedAt @map("updated_at")
+
+  // Relations
+  pointsAwarded    Point[]            @relation("PointsAwarded")
+  pointsReceived   Point[]            @relation("PointsReceived")
+  badges           UserBadge[]
+  streaks          Streak[]
+  eventsCreated    Event[]            @relation("EventCreator")
+  wallOfFameEntries WallOfFame[]      @relation("WallOfFameStudent")
+  wallOfFameUploads WallOfFame[]      @relation("WallOfFameUploader")
+  friendships1     Friendship[]       @relation("User1")
+  friendships2     Friendship[]       @relation("User2")
+  activities       Activity[]
+  challenges       UserChallenge[]
+  refreshTokens    RefreshToken[]
+
+  @@map("users")
+}
+
+model Point {
+  id          String        @id @default(uuid())
+  studentId   String        @map("student_id")
+  awardedBy   String        @map("awarded_by")
+  category    PointCategory
+  amount      Int
+  reason      String
+  createdAt   DateTime      @default(now()) @map("created_at")
+
+  // Relations
+  student     User          @relation("PointsReceived", fields: [studentId], references: [id], onDelete: Cascade)
+  awardedByUser User        @relation("PointsAwarded", fields: [awardedBy], references: [id])
+
+  @@map("points")
+}
+
+model Badge {
+  id             String      @id @default(uuid())
+  name           String      @unique
+  description    String
+  icon           String
+  category       String
+  pointsRequired Int         @map("points_required")
+  isSecret       Boolean     @default(false) @map("is_secret")
+  rarity         BadgeRarity @default(common)
+  createdAt      DateTime    @default(now()) @map("created_at")
+
+  // Relations
+  userBadges     UserBadge[]
+
+  @@map("badges")
+}
+
+model UserBadge {
+  id        String   @id @default(uuid())
+  userId    String   @map("user_id")
+  badgeId   String   @map("badge_id")
+  earnedAt  DateTime @default(now()) @map("earned_at")
+
+  // Relations
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  badge     Badge    @relation(fields: [badgeId], references: [id])
+
+  @@unique([userId, badgeId])
+  @@map("user_badges")
+}
+
+model Streak {
+  id             String   @id @default(uuid())
+  userId         String   @map("user_id")
+  activityType   String   @map("activity_type")
+  currentStreak  Int      @default(0) @map("current_streak")
+  longestStreak  Int      @default(0) @map("longest_streak")
+  lastActivity   DateTime @map("last_activity")
+  createdAt      DateTime @default(now()) @map("created_at")
+
+  // Relations
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, activityType])
+  @@map("streaks")
+}
+
+model Event {
+  id           String    @id @default(uuid())
+  title        String
+  description  String
+  eventType    EventType @map("event_type")
+  startDate    DateTime  @map("start_date")
+  endDate      DateTime  @map("end_date")
+  pointsReward Int       @map("points_reward")
+  createdBy    String    @map("created_by")
+  createdAt    DateTime  @default(now()) @map("created_at")
+
+  // Relations
+  creator      User      @relation("EventCreator", fields: [createdBy], references: [id])
+
+  @@map("events")
+}
+
+model WallOfFame {
+  id          String   @id @default(uuid())
+  studentId   String   @map("student_id")
+  title       String
+  description String
+  imageUrl    String   @map("image_url")
+  uploadedBy  String   @map("uploaded_by")
+  month       Int
+  year        Int
+  category    String
+  approved    Boolean  @default(false)
+  createdAt   DateTime @default(now()) @map("created_at")
+
+  // Relations
+  student     User     @relation("WallOfFameStudent", fields: [studentId], references: [id])
+  uploader    User     @relation("WallOfFameUploader", fields: [uploadedBy], references: [id])
+
+  @@map("wall_of_fame")
+}
+
+model Friendship {
+  id        String           @id @default(uuid())
+  user1Id   String           @map("user1_id")
+  user2Id   String           @map("user2_id")
+  status    FriendshipStatus
+  createdAt DateTime         @default(now()) @map("created_at")
+
+  // Relations
+  user1     User             @relation("User1", fields: [user1Id], references: [id], onDelete: Cascade)
+  user2     User             @relation("User2", fields: [user2Id], references: [id], onDelete: Cascade)
+
+  @@unique([user1Id, user2Id])
+  @@map("friendships")
+}
+
+model Activity {
+  id           String   @id @default(uuid())
+  userId       String   @map("user_id")
+  activityType String   @map("activity_type")
+  description  String
+  metadata     Json?
+  createdAt    DateTime @default(now()) @map("created_at")
+
+  // Relations
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("activities")
+}
+
+model DailyChallenge {
+  id           String   @id @default(uuid())
+  title        String
+  description  String
+  pointsReward Int      @map("points_reward")
+  date         DateTime @db.Date
+  category     String
+  isActive     Boolean  @default(true) @map("is_active")
+
+  // Relations
+  userChallenges UserChallenge[]
+
+  @@map("daily_challenges")
+}
+
+model UserChallenge {
+  id          String         @id @default(uuid())
+  userId      String         @map("user_id")
+  challengeId String         @map("challenge_id")
+  completed   Boolean        @default(false)
+  completedAt DateTime?      @map("completed_at")
+
+  // Relations
+  user        User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+  challenge   DailyChallenge @relation(fields: [challengeId], references: [id])
+
+  @@unique([userId, challengeId])
+  @@map("user_challenges")
+}
+
+model RefreshToken {
+  id        String   @id @default(uuid())
+  token     String   @unique
+  userId    String   @map("user_id")
+  expiresAt DateTime @map("expires_at")
+  createdAt DateTime @default(now()) @map("created_at")
+
+  // Relations
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("refresh_tokens")
+}

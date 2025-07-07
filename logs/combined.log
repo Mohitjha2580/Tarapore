@@ -1,0 +1,2593 @@
+{
+  message: 'Configuration validated successfully',
+  level: 'info',
+  service: 'school-engagement-api',
+  timestamp: '2025-07-07 18:30:38'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:38'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:38'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:38'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:38'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:38'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:38'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:38'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:39'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:39'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:39'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:40'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:40'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:41'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:41'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:42'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:42'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:43'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:43'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:44'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:44'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:45'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:45'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:46'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:46'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:47'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:47'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:48'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:48'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:49'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:49'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:50'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:50'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:51'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:52'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:52'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:53'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:53'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:54'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:54'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:55'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:55'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:56'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:56'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:57'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:57'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:58'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:58'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:59'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:30:59'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:00'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:00'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:01'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:01'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:02'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:02'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:03'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:03'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:04'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:04'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:05'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:05'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:06'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:06'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:07'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:07'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:08'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:08'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:09'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:09'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:10'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:10'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:11'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:11'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:12'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:12'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:13'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:13'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:14'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:14'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:15'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:15'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:16'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:16'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:17'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:17'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:18'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:18'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:19'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:19'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:20'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:20'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:21'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:21'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:22'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:22'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:23'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:23'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:24'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:24'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:25'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:25'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:26'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:26'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:27'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:27'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:28'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:28'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:29'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:29'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:30'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:30'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:31'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:31'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:32'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:32'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:33'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:33'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:34'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:34'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:35'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:35'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:36'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:36'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:37'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:37'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:38'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:38'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:39'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:39'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:40'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:40'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:41'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:41'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:42'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:42'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:43'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:43'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:44'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:44'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:45'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:45'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:46'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:46'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:47'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:47'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:48'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:48'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:49'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:49'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:50'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:50'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:51'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:51'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:52'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:52'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:53'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:53'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:54'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:54'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:55'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:55'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:56'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:56'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:57'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:57'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:58'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:58'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:59'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:31:59'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:00'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:00'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:01'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:01'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:02'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:02'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:03'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:03'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:04'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:04'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:05'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:05'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:06'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:06'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:07'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:07'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:08'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:08'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:09'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:09'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:10'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:10'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:11'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:11'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:12'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:12'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:13'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:13'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:14'
+}
+{
+  service: 'school-engagement-api',
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 6379,
+  level: 'error',
+  message: 'Redis client error: connect ECONNREFUSED 127.0.0.1:6379',
+  stack: 'Error: connect ECONNREFUSED 127.0.0.1:6379\n' +
+    '    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16)',
+  timestamp: '2025-07-07 18:32:14'
+}
